@@ -27,6 +27,16 @@
 ###
 #⏳Total coding time
 <!--START_SECTION:waka-->
+
+```txt
+From: 30 September 2025 - To: 07 October 2025
+
+Total Time: 2 hrs 11 mins
+
+PHP      2 hrs 10 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.67 %
+Python   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.33 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
