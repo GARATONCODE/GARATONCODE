@@ -25,8 +25,14 @@
 </div>
 
 
+###
+< image > < source media = "(préfère le schéma de couleurs : foncé)" srcset = "https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg" > < source media = "(préfère le schéma de couleurs : clair)" srcset = "https://raw.githubusercontent.com/[GARATONCODE]/[GARATONCODE]/output/pacman-contribution-graph.svg" > < img alt = "graphique de contribution Pacman" src = "https://raw.githubusercontent.com/[GARATONCODE]/[GARATONCODE]/output/pacman-contribution-graph.svg" > </ image >
+    
+    
+    
 
 
+_généré avec [ abozanona/pacman-contribution-graph ]( https://abozanona.github.io/pacman-contribution-graph/ )_
 ###
 #⏳Total coding time
 <!--START_SECTION:waka-->
