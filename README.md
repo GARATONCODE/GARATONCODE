@@ -25,12 +25,7 @@
 </div>
 
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[GARATONCODE]/[GARATONCODE]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[GARATONCODE]/[GARATONCODE]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[GARATONCODE]/[GARATONCODE]/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
 ###
@@ -53,7 +48,12 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 
-
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[GARATONCODE]/[GARATONCODE]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[GARATONCODE]/[GARATONCODE]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[GARATONCODE]/[GARATONCODE]/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
