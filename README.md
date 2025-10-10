@@ -32,13 +32,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[GARATONCODE]/[GARATONCODE]/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-    
-    
-    
 
-
-_généré avec [ abozanona/pacman-contribution-graph ]( https://abozanona.github.io/pacman-contribution-graph/ )_
 ###
 #⏳Total coding time
 <!--START_SECTION:waka-->
